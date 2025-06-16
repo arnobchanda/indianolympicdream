@@ -5,7 +5,6 @@ yarn-debug.log*
 yarn-error.log*
 
 # Angular build artifacts
-/dist
 /.angular
 /tmp
 /out-tsc
@@ -48,7 +47,6 @@ tslint.json
 # Docker
 node_modules
 npm-debug.log
-dist
 .env
 .nyc_output
 .coverage
